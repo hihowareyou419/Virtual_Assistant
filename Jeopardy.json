@@ -1,0 +1,454 @@
+{
+    "Sports":{
+        "100":[
+            {
+                "q": "How many baseball players in history have both 3,000 hits AND 500 home runs?",
+                "a": ["seven", "7"]
+                
+            },
+            {
+                "q": "What are Olymic gold medals mostly made of?",
+                "a": ["silver"]
+            },
+            {
+                "q": "what do you call it when a bowler gets three strikes in a row?",
+                "a": ["turkey", "a turkey"]
+            },
+            {
+                "q": "In racing what type of flag is held up to signafy the end of a race?",
+                "a": ["checkered", "a checkered flag", "checkered flag"]
+            },
+            {
+                "q": "How long is a marathon (miles)?",
+                "a": ["26.2", "26.2 miles"]
+            }
+        ],
+        "200":[
+            {
+                "q": "In meters, how large is an Olympic swimming pool?",
+                "a": ["50 by 25", "25 by 50"]
+            },
+            {
+                "q": "What is the diamater of a basketball hoop (inches)?",
+                "a": ["18", "18 inches"]
+            },
+            {
+                "q": "Who has won more tennis grand slam titles, Venus Williams or Serena Williams?",
+                "a": ["serena", "serena williams"]
+            },
+            {
+                "q": "What sport is known as 'the king of sports'?",
+                "a": ["soccer", "futball"]
+            },
+            {
+                "q": "Which golf tournament did Tiger Woods win by 12 strokes cementing his first-ever major championship win?",
+                "a": ["masters", "the masters"]
+            }
+        ],
+        "300":[
+            {
+                "q": "How many medals did China win at the Beijing Olympics?",
+                "a": ["100", "one hundred"]
+            },
+            {
+                "q": "On average, how many dimples does a golfball have?",
+                "a": ["336", "three hundred thirty six"]
+            },
+            {
+                "q": "What's the national sport of Canada?",
+                "a": ["lacrosse", "lax"]
+            },
+            {
+                "q": "Who won the 2020 world series?",
+                "a": ["dodgers", "the dodgers", "the la dodgers", "the los angeles dodgers", "la dodgers", "los angeles dodgers"]
+            },
+            {
+                "q": "What country has competed the most times in the Summer Olympics yet hasn't won a gold medal?",
+                "a": ["philippines", "the phillipines"]
+            }
+        ],
+        "400":[
+            {
+                "q": "In what year were women allowed to compete in the modern Olympic games?",
+                "a": ["1900", "nineteen hundred"]
+            },
+            {
+                "q": "How old was Tiger Woods when he won the Masters?",
+                "a": ["21", "twenty one"]
+            },
+            {
+                "q": "In which winter sport are the terms 'stale fish' and 'mule kick' used?",
+                "a": ["snowboarding", "snowboard"]
+            },
+            {
+                "q": "What NFL team was originally called the 'New York Titans'?",
+                "a": [ "giants", "the giants", "the new york giants", "new york giants"]
+            },
+            {
+                "q": "Who won the 2000 world series?",
+                "a": ["yankees", "the yankees", "new york yankees", "the new york yankees"]
+            }
+        ],
+        "500":[
+            {
+                "q": "How many Olympic games were held in countries that no longer exist?",
+                "a": ["3", "three"]
+            },
+            {
+                "q": "During the first-ever modern Olympics, what were the first placers awarded with?",
+                "a": ["silver medals"]
+            },
+            {
+                "q": "How many minutes was the longest recorded point in the history of tennis (minutes)?",
+                "a": ["29", "29 min", "29 minutes"]
+            },
+            {
+                "q": "Who was the first president to throw the ceremonial first pitch at a Major League Baseball game?",
+                "a": ["william taft", "william howard taft", "taft"]
+            },
+            {
+                "q": "What sport is Bela Karolyi known for coaching?",
+                "a": ["volleyball", "womens volleyball"]
+            }
+        ]
+    },
+    "History":{
+        "100":[
+            {
+                "q": "What was the name of the Pilgrim's ship?",
+                "a": ["mayflower", "the mayflower"]
+                
+            },
+            {
+                "q": "How many stripes does the American Flag have?",
+                "a": ["13"]
+            },
+            {
+                "q": "Who was the first man on the moon?",
+                "a": ["neil armstrong", "armstrong"]
+            },
+            {
+                "q": "Cleopatra VII was a legendary ruler of what county?",
+                "a": ["egypt"]
+            },
+            {
+                "q": "In which civilization did the first Olympic games take place?",
+                "a": ["greece", "ancient greece"]
+            }
+        ],
+        "200":[
+            {
+                "q": "What year did the Titanic sink?",
+                "a": ["1912", "nineteen twelve"]
+            },
+            {
+                "q": "Which group of people once ruled Norway?",
+                "a": ["vikings", "the vilings"]
+            },
+            {
+                "q": "Who introduced Christianity to Ireland?",
+                "a": ["saint patrick", "st. patrick", "st patrick"]
+            },
+            {
+                "q": "How many stars does the American Flag have?",
+                "a": ["50", "fifty"]
+            },
+            {
+                "q": "How are the number of stars on the american flag determined?",
+                "a": ["number of states", "the number of states"]
+            }
+        ],
+        "300":[
+            {
+                "q": "Who was the first President to be impeached?",
+                "a": ["jackson", "andrew jackson"]
+            },
+            {
+                "q": "Which 2 continants did WW2 take place in?",
+                "a": ["europe and asia", "asia and europe", "asia, europe", "europe, asia", "asia europe", "europe asia"]
+            },
+            {
+                "q": "What is the only state in the US to have a name only one syllable long?",
+                "a": ["maine"]
+            },
+            {
+                "q": "How old was Queen Elizabeth II when she became queen?",
+                "a": ["27"]
+            },
+            {
+                "q": "What famous bike race was first held in France in 1903?",
+                "a": ["tour de france"]
+            }
+        ],
+        "400":[
+            {
+                "q": "Who was the first European to set foot in North America?",
+                "a": ["leif erikson"]
+            },
+            {
+                "q": "In 1922, excited explorers found the tomb of which famous ancient ruler?",
+                "a": ["king tut", "tutankhamun", "king tutankhamun"]
+            },
+            {
+                "q": "Which ancient civilization created the wheel?",
+                "a": ["ancient mesopotamia", "mesopotamia"]
+            },
+            {
+                "q": "Who first invented writing?",
+                "a": ["sumerians", "the sumerians"]
+            },
+            {
+                "q": "What is 'Uncle Sam's real name?",
+                "a": ["samuel wilson"]
+            }
+        ],
+        "500":[
+            {
+                "q": "When was the first American dollar printed?",
+                "a": ["1862", "eighteen sixty two"]
+            },
+            {
+                "q": "The Baseball World Series was first contested in which year?",
+                "a": ["1903"]
+            },
+            {
+                "q": "Who was the fourth president of the United States?",
+                "a": ["james madison"]
+            },
+            {
+                "q": "What amendment gave women the right to vote?",
+                "a": ["19", " the nineteenth", "nineteenth", "the 19th", "19th"]
+            },
+            {
+                "q": "What amendment made the voting age 18?",
+                "a": ["the 26th", "26th", "26", "twenty sixth", "the twenty sixth"]
+            }
+        ]
+    },
+    "Science":{
+        "100":[
+            {
+                "q": "What is the largest known land animal?",
+                "a": ["elephant", "the elephant"]
+                
+            },
+            {
+                "q": "How many bones do sharks have?",
+                "a": ["0", "zero"]
+            },
+            {
+                "q": "What is the largest internal organ of the human body?",
+                "a": ["liver", "the liver"]
+            },
+            {
+                "q": "What does 'E' represent in E=MC^2?",
+                "a": ["energy"]
+            },
+            {
+                "q": "Frogs belong to which animal group",
+                "a": ["amphibians", "amphibian"]
+            }
+        ],
+        "200":[
+            {
+                "q": "Oncolgy focuses on what disease?",
+                "a": ["cancer"]
+            },
+            {
+                "q": "Animals that eat both plants and meat are called what?",
+                "a": ["omnivors"]
+            },
+            {
+                "q": "Penicillin is used to fight what type of infections?",
+                "a": ["bacterial", "bacteria"]
+            },
+            {
+                "q": "Optics is the study of what?",
+                "a": ["light"]
+            },
+            {
+                "q": "Where is the world's most active volcano located",
+                "a": ["hawaii"]
+            }
+        ],
+        "300":[
+            {
+                "q": "What part of the bran deals with hearing and language",
+                "a": ["temporal lobe", "the temporal lobe"]
+            },
+            {
+                "q": "Dolly was the first-ever iving creature to be cloned. What type of animal was she",
+                "a": ["sheep"]
+            },
+            {
+                "q": "What is the quality of an object that allows it to float on water?",
+                "a": ["buoyancy"]
+            },
+            {
+                "q": "What planet in our solar system has the most gravity?",
+                "a": ["jupiter"]
+            },
+            {
+                "q": "What is a Geiger Counter used to measure what?",
+                "a": ["radiation"]
+            }
+        ],
+        "400":[
+            {
+                "q": "What does ATP stand for?",
+                "a": ["adensosine triphosphate"]
+            },
+            {
+                "q": "What type of grass is the tallest?",
+                "a": ["bamboo"]
+            },
+            {
+                "q": "What is the symbol for the element silver?",
+                "a": ["ag"]
+            },
+            {
+                "q": "What two elements on the periodic table area liquids at room temperature",
+                "a": ["mercury and bromine", "bromine and mercury", "mercury, bromine", "bromine, mercury", "bromine mercury", "mercury bromine"]
+            },
+            {
+                "q": "How many elements are on the periodic table",
+                "a": ["118", "one hundred eighteen"]
+            }
+        ],
+        "500":[
+            {
+                "q": "What is the hottest planet in our solar system?",
+                "a": ["venus"]
+            },
+            {
+                "q": "What is the opposite of matter?",
+                "a": ["antimatter"]
+            },
+            {
+                "q": "Does sound travel faster in water or air?",
+                "a": ["water"]
+            },
+            {
+                "q": "Is a tomato a fruit or a vegetable",
+                "a": ["fruit"]
+            },
+            {
+                "q": "How many bones are in the average adult body?",
+                "a": ["206", "two hundred six"]
+            }
+        ]
+    },
+    "Pop culture":{
+        "100":[
+            {
+                "q": "Name one popular streaming platform.",
+                "a": ["youtube", "twitch"]
+                
+            },
+            {
+                "q": "What does 'lol' stand for?",
+                "a": ["laughing out loud"]
+            },
+            {
+                "q": "Who wrote the hit song 'Say So'?",
+                "a": ["doja cat"]
+            },
+            {
+                "q": "What day is Star Wars day?",
+                "a": ["may 4th", "may fourth"]
+            },
+            {
+                "q": "How many harry potter books are there?",
+                "a": ["seven", "7"]
+            }
+        ],
+        "200":[
+            {
+                "q": "Who wrote the Harry Potter series?",
+                "a": ["jk rowling", "j.k rowling"]
+            },
+            {
+                "q": "In what Avengers movie did Tony Start die?",
+                "a": ["endgame"]
+            },
+            {
+                "q": "Who is the 'Tiger King'?",
+                "a": ["joe exotic"]
+            },
+            {
+                "q": "What Black Panther star died at an early age?",
+                "a": ["chadwick boseman"]
+            },
+            {
+                "q": "Which star famously diversed musical artist Kanye West in 2021",
+                "a": ["kim kardashian"]
+            }
+        ],
+        "300":[
+            {
+                "q": "The name of the first Harry Potter book is Harry Potter and the...",
+                "a": ["sorcerers stone"]
+            },
+            {
+                "q": "Which superstar sang at the 2021 Supwerbowl?",
+                "a": ["the weekend"]
+            },
+            {
+                "q": "Who was the top musical artist in 2020?",
+                "a": ["doja cat"]
+            },
+            {
+                "q": "What is the name of the Full House reboot on Netflix?",
+                "a": ["fuller house"]
+            },
+            {
+                "q": "What is the longest-running TV series",
+                "a": ["the simpsons"]
+            }
+        ],
+        "400":[
+            {
+                "q": "Adam Levine is the singer of which music group?",
+                "a": ["maroon 5", "maroon five"]
+            },
+            {
+                "q": "Which pop star is the godmother of Elton John's sons?",
+                "a": ["lady gaga"]
+            },
+            {
+                "q": "Who was the highest-paid actress of 2019 according to Forbes?",
+                "a": ["scarlett johansson"]
+            },
+            {
+                "q": "What did Mandalorian fans name 'The child' in the Disney+ series?",
+                "a": ["baby yoda"]
+            },
+            {
+                "q": "Who is the half-blood prince in Harry Potter?",
+                "a": ["snape", "severus snape", "severus"]
+            }
+        ],
+        "500":[
+            {
+                "q": "Who created the viral 'renegade' dance on TikTok?",
+                "a": ["jalaiah harmon"]
+            },
+            {
+                "q": "Who is the oldest Kardashian sister?",
+                "a": []
+            },
+            {
+                "q": "Where did Prince WIlliam and Kate Middleton first meet?",
+                "a": ["saint andrews university", "st andrews university", "st. andrews universitu"]
+            },
+            {
+                "q": "Which movie won the first official Best Picture Academy Award?",
+                "a": ["wings"]
+            },
+            {
+                "q": "Who was the first Bachelorette in 2003",
+                "a": ["trista sutter"]
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "music":[
+        {"filename": "Audio_Files/Blindinglights.wav", "trackname": "Blinding Lights", "author": "The Weekend"}, 
+        {"filename": "Audio_Files/Deathbed.wav", "trackname": "Deathbed"},
+        {"filename": "Audio_Files/EBLTA.wav", "trackname": "Eyes Blue Like the Atlantic"},
+        {"filename": "Audio_Files/GLY.wav", "trackname": "Girls Like You"},
+        {"filename": "Audio_Files/Mood.wav", "trackname": "Mood"},
+        {"filename": "Audio_Files/riptide.wav", "trackname": "Riptide"},
+        {"filename": "Audio_Files/LYS.wav", "trackname": "Lose Yourself", "author": "Eminem"}
+    ],
+    "books":[
+        {"filename": "Audio_Files/hp1p1.wav", "trackname": "Harry Potter Book 1", "author": "JK Rowling"},
+        {"filename": "Audio_Files/tc1p1.wav", "trackname": "The Candymakers", "author": "Wendy Mass"},
+        {"filename": "Audio_Files/hp7p1.wav", "trackname": "Harry Potter Book 7", "author": "JK Rowling"},
+        {"filename": "Audio_Files/tc2p1.wav", "trackname": "The Candymakers and the Great Chocolate Chase", "author": "Wendy Mass"}
+    ],
+    "internal":[
+        {"filename": "Audio_Files/jeopardymusic.wav", "trackname": "Jeopardy Theme Music"}
+    ]
+}
